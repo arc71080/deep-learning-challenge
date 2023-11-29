@@ -18,4 +18,4 @@ Compiling, Training, and Evaluating the Model:
 
 ## Summary
 
-The overall results of this model did not reach the optimal performance as it never reached higher than 72%. It did get very close to the achieved accuracy and could reach 75% or higher by continuing to add layers, changing the activation, picking different unit amounts, and trying different ways to preprocess the input data.
+The overall results of this model did not reach the optimal performance as it never reached higher than 72%. It did get very close to the achieved accuracy and could reach 75% or higher by continuing to add hidden layers, changing the activation, picking different unit amounts, and changing the epochs.
