@@ -18,4 +18,4 @@ Compiling, Training, and Evaluating the Model:
 
 ## Summary
 
-Overall, this model did not reach the optimal performance as it never reached higher than 72%. Some things to consider to help with optimization would be to continue adding layers, changing the activation, picking different unit amounts, and trying different preprocessing options to help the model achieve an accuracy of 75% or higher. 
+Overall, this model did not reach the optimal performance as it never reached higher than 72%. However, it did get very close to the achieved accuracy and could reach 75% or higher by continuing to add layers, changing the activation, picking different unit amounts, and trying different ways to preprocess the input data.
